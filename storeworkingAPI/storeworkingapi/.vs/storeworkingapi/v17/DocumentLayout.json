@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|c:\\users\\y nhi\\angular\\storeworkingweb\\storeworkingapi\\storeworkingapi\\storeworkingapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|solutionrelative:storeworkingapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|c:\\users\\y nhi\\angular\\storeworkingweb\\storeworkingapi\\storeworkingapi\\storeworkingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|solutionrelative:storeworkingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|c:\\users\\y nhi\\angular\\storeworkingweb\\storeworkingapi\\storeworkingapi\\storeworkingapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|solutionrelative:storeworkingapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|c:\\users\\y nhi\\angular\\storeworkingweb\\storeworkingapi\\storeworkingapi\\storeworkingapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|solutionrelative:storeworkingapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|c:\\users\\y nhi\\angular\\storeworkingweb\\storeworkingapi\\storeworkingapi\\storeworkingapi\\models\\addemployeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|solutionrelative:storeworkingapi\\models\\addemployeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|c:\\users\\y nhi\\angular\\storeworkingweb\\storeworkingapi\\storeworkingapi\\storeworkingapi\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|solutionrelative:storeworkingapi\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|c:\\users\\y nhi\\angular\\storeworkingweb\\storeworkingapi\\storeworkingapi\\storeworkingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|solutionrelative:storeworkingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|c:\\users\\y nhi\\angular\\storeworkingweb\\storeworkingapi\\storeworkingapi\\storeworkingapi\\storeworkingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA329DDA-B57F-4DA4-8356-E5EA5E97E8D3}|storeworkingapi\\storeworkingapi.csproj|solutionrelative:storeworkingapi\\storeworkingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployeeRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Models\\AddEmployeeRequestDTO.cs",
+              "RelativeDocumentMoniker": "storeworkingapi\\Models\\AddEmployeeRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Models\\AddEmployeeRequestDTO.cs",
+              "RelativeToolTip": "storeworkingapi\\Models\\AddEmployeeRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:55:08.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "storeworkingapi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "storeworkingapi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:46:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\appsettings.json",
+              "RelativeDocumentMoniker": "storeworkingapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\appsettings.json",
+              "RelativeToolTip": "storeworkingapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T08:41:01.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "storeworkingapi\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "storeworkingapi\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:38:52.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Program.cs",
+              "RelativeDocumentMoniker": "storeworkingapi\\Program.cs",
+              "ToolTip": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Program.cs",
+              "RelativeToolTip": "storeworkingapi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:41:03.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "storeworkingapi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "storeworkingapi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:01:51.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Models\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "storeworkingapi\\Models\\Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\Models\\Domain\\Employee.cs",
+              "RelativeToolTip": "storeworkingapi\\Models\\Domain\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:36:42.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "storeworkingapi.csproj",
+              "DocumentMoniker": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\storeworkingapi.csproj",
+              "RelativeDocumentMoniker": "storeworkingapi\\storeworkingapi.csproj",
+              "ToolTip": "C:\\Users\\Y NHI\\Angular\\StoreWorkingWeb\\storeworkingAPI\\storeworkingapi\\storeworkingapi\\storeworkingapi.csproj",
+              "RelativeToolTip": "storeworkingapi\\storeworkingapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T08:38:22.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

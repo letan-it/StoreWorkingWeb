@@ -1,0 +1,10 @@
+
+@if (employees$ | async;as employees) {
+  @if (employees.length>0) {
+    @for (item of employees; track $index) {
+      <p>{{item.name}}</p>
+    }
+  }@else {
+    <p>No employee found...</p>
+  }
+}

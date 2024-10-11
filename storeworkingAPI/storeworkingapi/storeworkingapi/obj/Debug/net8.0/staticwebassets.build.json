@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5SNBV2KpnxjBQjBiWHGItnpZGhSYrOoU7WQws4OsYW4=",
+  "Source": "storeworkingapi",
+  "BasePath": "_content/storeworkingapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
